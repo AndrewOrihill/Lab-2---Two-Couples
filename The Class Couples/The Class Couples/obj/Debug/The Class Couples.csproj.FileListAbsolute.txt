@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\bin\Debug\The Class Couples.exe.config
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\bin\Debug\The Class Couples.exe
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\bin\Debug\The Class Couples.pdb
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\obj\Debug\The Class Couples.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\obj\Debug\The Class Couples.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\obj\Debug\The Class Couples.exe
+C:\Users\Andrew\source\repos\The Class Couples\The Class Couples\obj\Debug\The Class Couples.pdb
